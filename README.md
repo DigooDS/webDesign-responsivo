@@ -11,7 +11,6 @@ WebDesign responsivel criado com puro CSS.
 
 ---
 ## 🚀 Tecnologias utilizadas
-- HTML
 - CSS
 
 ---
